@@ -1,4 +1,4 @@
-module github.com/Masterminds/squirrel
+module github.com/libatomic/squirrel
 
 go 1.14
 
